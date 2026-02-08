@@ -60,5 +60,4 @@ The following bar chart visually represents the TOPSIS scores.
 
 ![Topsis Ranking](topsis_rank_plot.png)
 
-## Notebook
-A Jupyter Notebook `Topsis_Analysis.ipynb` is included in this repository.
+
