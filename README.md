@@ -56,4 +56,4 @@ The final rankings based on the text summarization analysis are:
 ## Visualization
 The following chart visually represents the TOPSIS scores across the different summarization architectures.
 
-![Topsis Ranking](topsis_analysis.png)
+![Topsis Ranking](topsis_rank_plot.png)
